@@ -1,7 +1,7 @@
 # This will be the NHLgui application
 
 # importing the relevent modules
-import Tkinter as *
+from Tkinter as Tk
 
 # creates the window
 root = Tk()
